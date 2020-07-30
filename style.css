@@ -27,7 +27,7 @@ body {
     grid-template-columns: repeat(2, 1fr);
     justify-items: center;
     align-items: center;
-    font-size: 35px;
+    font-size: 30px;
   }
   
   .result-score {
@@ -42,5 +42,5 @@ body {
   
   .result-selection.winner {
     opacity: 1;
-    font-size: 40px;
+    font-size: 35px;
   }
